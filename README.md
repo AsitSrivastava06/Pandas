@@ -1,4 +1,4 @@
-# 📊 Experiment 9 – Study of Pandas Library
+# 📊 Experiment : Study of Pandas Library
 
 A comprehensive implementation of Pandas fundamentals demonstrating structured data manipulation, analysis, and real-world tabular data processing in Python.
 ---
